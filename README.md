@@ -1,3 +1,3 @@
-[![Actions Status](https://github.com/actions/lmnzr/learn-ci-cd/workflows/cicd/badge.svg)](https://github.com/actions/lmnzr/learn-ci-cd)
+![CI](https://github.com/lmnzr/learn-ci-cd/workflows/CI/badge.svg)
 # learn-ci-cd
 Learn CI/CD
